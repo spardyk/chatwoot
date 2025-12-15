@@ -248,7 +248,7 @@ lt:
           reply_with_name: '%{assignee_name} nuo %{inbox_name} <%{from_email}>'
           reply_with_inbox_name: '%{inbox_name} <%{from_email}>'
       email_subject: 'Nauji pranešimai šiame pokalbyje'
-      transcript_subject: 'Poklabio stenograma'
+      transcript_subject: 'Pokalbio stenograma'
     survey:
       response: 'Prašome įvertinti pokalbį, %{link}'
   contacts:
